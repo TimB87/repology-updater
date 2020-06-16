@@ -6,7 +6,7 @@
 - name: crux
   type: repository
   desc: CRUX
-  family: crux
+  ruleset: crux
   minpackages: 1000
   update_period: 6h
   sources:
